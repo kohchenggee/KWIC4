@@ -1,4 +1,4 @@
-package test;
+package test.java;
 
 import CS3213.WordsToIgnore;
 import org.junit.Test;

@@ -1,6 +1,6 @@
 package test.java;
 
-import CS3213.WordsToIgnore;
+import test.CS3213.*;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

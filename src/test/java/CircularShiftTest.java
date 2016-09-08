@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-import CS3213.CircularShift;
+import test.CS3213.*;
 
 import java.util.HashSet;
 
